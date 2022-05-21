@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SimpleQuiz</string>
+    <string name="true_text">true</string>
+    <string name="false_text">false</string>
+    <string name="Question1">The study of plants is known as botany.</string>
+    <string name="Question2">Kelvin is a measure of temperature.</string>
+    <string name="Question3">The human skeleton is made up of less than 100 bones.</string>
+    <string name="Question4">Albert Einstein was awarded the Nobel Prize in Physics.</string>
+    <string name="Question5">Spiders have six legs.</string>
+    <string name="Question6">Sharks are mammals.</string>
+    <string name="Question7">Electrons are larger than molecules.</string>
+    <string name="correct">That\'s correct.</string>
+    <string name="wrong">That\'s wrong.</string>
+    <string name="previous">previous</string>
+    <string name="next">next</string>
+</resources>
